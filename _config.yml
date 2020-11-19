@@ -1,3 +1,6 @@
 remote_theme: hydecorp/hydejack@v9.0.5
 plugins:
   - jekyll-include-cache
+author:
+  name:  Florian Klampfer
+  email: mail@qwtel.com
