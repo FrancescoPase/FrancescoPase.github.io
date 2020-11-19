@@ -6,7 +6,4 @@ plugins:
 author:
   name:  Florian Klampfer
   email: mail@qwtel.com
-  about: |
-    Hi, I'm Florian or @qwtel...
-
-    This is another paragraph.
+  picture:  /assets/img/hr.jpg
