@@ -13,11 +13,11 @@ img_path: /static/assets/img/blog  # /homepage/static/assets/img/blog
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
-  name: Aakash Jhawar  # Be used at blog posts' author.
-  first_name: Aakash  # Be used at index page about me section.
-  last_name: Jhawar  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar1.jpg  # upload your avatar at directory and edit it.
-  github_username: aakashjhawar  # Leave blank if you don't have now
+  name: Francesco Pase  # Be used at blog posts' author.
+  first_name: Francesco  # Be used at index page about me section.
+  last_name: Pase  # Be used at index page about me section.
+  avatar: /static/assets/img/landing/hr.jpg  # upload your avatar at directory and edit it.
+  github_username: FrancescoPase  # Leave blank if you don't have now
   linkedin_id: aakashjhawar # Leave blank if you don't have now
   facebook_username: # aakashjhawar  # Leave blank if you don't have now
   twitter_username: aakash_jhawar_  # Leave blank if you don't have now
